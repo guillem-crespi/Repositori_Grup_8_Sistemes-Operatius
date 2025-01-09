@@ -1,6 +1,6 @@
+#El juego de la oca
 
 
-<<<<<<< HEAD
 VERSIÓN 2:
 Verificador: Paula Katharina Birner
 Generador: Marti Claramunt
