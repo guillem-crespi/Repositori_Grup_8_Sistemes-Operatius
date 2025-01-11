@@ -1,6 +1,12 @@
-"# Grup-SO" 
+"#El juego de la oca" 
 
-<<<<<<< HEAD
+VERSIÓN 3:
+Guillem Crespí Terrasa
+Roger Macià
+Paula Katharina Borner
+Marti Claramunt
+
+=======
 VERSIÓN 2:
 Verificador: Paula Katharina Birner
 Generador: Marti Claramunt
